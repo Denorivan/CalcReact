@@ -1,18 +1,18 @@
 .container{
-    width: 200px;
+    width: 300px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 10rem;
-    padding: 10px;
+    margin-top: 12rem;
+    padding: 12px;
 
     text-align: center;
     background: darkgray;
-    border: 1px solid black;
+    border: 5px solid black;
     border-radius: 5px;
 }
 
 .out {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 input{
@@ -21,6 +21,6 @@ input{
 
 
 button{
-    margin: 2px;
-    width: 2rem;
+    margin: 4px;
+    width: 4rem;
 }
